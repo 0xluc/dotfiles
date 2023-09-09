@@ -5,4 +5,4 @@
 [[ -f ~/.bashrc ]] && . ~/.bashrc
 startx
 
-export PATH="/home/v/.local/share/solana/install/active_release/bin:$PATH"
+export PATH=:"$HOME/.local/share/solana/install/active_release/bin:$PATH"

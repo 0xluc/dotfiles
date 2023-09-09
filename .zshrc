@@ -9,8 +9,11 @@ ssh-add ~/.ssh/git
 
 # some aliases
 alias mupdf='mupdf -I'
-alias e='exit exit'
+alias e='exit'
 alias yt-dlppm='yt-dlp --extract-audio --audio-format mp3 -o "%(title)s.%(ext)s" --yes-playlist'
+alias n='nvim'
+alias gb='go build'
+alias gr='go run'
 
 # Enable colors and change prompt:
 autoload -U colors && colors

@@ -1,7 +1,7 @@
 #
 # ~/.bashrc
 #🔋 
-export BROWSER="librewolf"
+export BROWSER="firefox"
 export EDITOR="nvim"
 export PATH="$HOME/bin:$PATH"
 export QT_QPA_PLATFORMTHEME="qt5ct"
